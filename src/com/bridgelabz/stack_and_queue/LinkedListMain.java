@@ -53,6 +53,5 @@ public class LinkedListMain {
         else {
             System.out.println("Invalid insertion");
         }
-
     }
 }

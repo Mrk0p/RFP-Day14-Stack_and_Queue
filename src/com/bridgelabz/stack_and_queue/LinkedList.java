@@ -1,7 +1,6 @@
 package com.bridgelabz.stack_and_queue;
 
 public class LinkedList<E> {
-
     Node<E> head ;
 
     Node<E> tail ;
