@@ -1,7 +1,6 @@
 package com.bridgelabz.stack_and_queue;
 
 public class LinkedListMain {
-
     public static void main(String[] args) {
 
         LinkedList<Integer> linkedList1 = new LinkedList<>();

@@ -11,7 +11,8 @@ public class LinkedList<E> {
             head = newNode;
             tail = newNode;
         }
-        else {
+        else
+        {
             newNode.setNext(head);
             head = newNode;
         }
