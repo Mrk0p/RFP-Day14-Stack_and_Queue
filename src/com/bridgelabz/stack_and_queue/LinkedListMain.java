@@ -40,7 +40,8 @@ public class LinkedListMain {
             System.out.println("Data found");
             linkedList2.display();
         }
-        else {
+        else
+        {
             System.out.println("Data not found");
         }
 

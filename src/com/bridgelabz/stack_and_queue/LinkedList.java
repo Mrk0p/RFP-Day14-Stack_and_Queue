@@ -18,7 +18,8 @@ public class LinkedList<E> {
         }
     }
 
-    public void display() {
+    public void display()
+    {
         Node<E> temp = head;
         if(head == null){
             System.out.println("Linked List is empty");
